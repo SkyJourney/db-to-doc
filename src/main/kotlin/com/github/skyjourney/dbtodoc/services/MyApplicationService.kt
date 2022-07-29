@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.skyjourney.dbtodoc.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.skyjourney.dbtodoc.MyBundle
 
 class MyApplicationService {
 
